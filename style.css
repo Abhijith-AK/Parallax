@@ -210,7 +210,7 @@ section .container>* {
     width: 100%;
     left: 0;
     z-index: 20;
-    background: linear-gradient(to top, #151515, transparent);
+    background: linear-gradient(to top, #121212, transparent);
 }
 
 .opacity {
